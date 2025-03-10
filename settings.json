@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "Kala_mazdur",
     "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "secrethaven.aternos.me:31181",
+    "port": 31181,
     "version": "1.19.3"
   },
 
